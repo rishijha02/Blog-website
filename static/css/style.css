@@ -1,0 +1,65 @@
+*
+{
+	padding: 0;
+	margin: 0;
+}
+body
+{
+	font-family: 'Source Sans Pro', sans-serif;
+	line-height: 1.8;
+}
+/* Login*/
+#header
+{
+	width: 100%;
+	text-align: center;
+	border-bottom: 5px solid orange;
+	height: 15vh;
+	background-color: darkgrey;
+	color: white;
+	padding-top: 25px;
+	font-size: 1.6rem;
+}
+#header span
+{
+	color: orange;
+	font-size:2.2rem;
+	font-family: arial; 
+}
+/*
+#login-page
+{
+	background-image: url('static/img/hs.jpeg');
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 75vh;
+}*/
+#login-content
+{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	border: 2px solid black;
+	width: 500px;
+	text-align: center;
+	padding: 25px;
+	font-size: 1.4rem;
+}
+#login-content input
+{
+	border:2px solid black;
+	margin: 5px;
+	padding: 10px;
+	width: 300px;
+}
+#login-content button
+{
+	padding: 5px;
+	font-size: 1.2rem;
+	margin-top: 5px;
+	border: 2px solid black;
+}
+
+

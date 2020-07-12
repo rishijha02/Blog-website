@@ -1,0 +1,17 @@
+{
+	"params":
+	{
+		"local_server":"True",
+		"local_uri":"mysql+pymysql://root:@localhost/codingthunder",
+		"prod_uri":"mysql+pymysql://root:@localhost/codingthunder",
+		"fb_url":"facebook.com/rishijha",
+		"tw_url":"facebook.com/rishijha",
+		"gh_url":"facebook.com/rishijha",
+		"gmail-user":"this@gmail.com",
+		"gmail-password":"zxcvbnm",
+		"about":"hello i am rishi,a professional web creater",
+		"no":2,
+		"userid":"rishijha",
+		"password":"12345"
+	}
+}
